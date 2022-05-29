@@ -2,4 +2,5 @@
 
 Olá Bem vindo ao meu livro de receitas.
 
-- Bobó de Camarão;
+- Bobó de Camarão
+- Fricassê de Frango
